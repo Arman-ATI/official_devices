@@ -27,6 +27,7 @@
 ## OnePlus
 - **OnePlus 6/6T (Enchilada/Fajita)** - [`@Nartuouzumakii`](https://t.me/Nartuouzumakii)
 - **OnePlus 8 Series (Instantnoodle/p/Kebab/Lemonades)** - [`@manid_reddy`](https://t.me/manid_reddy)
+- **OnePlus 10 pro (wly)** - [`@Arman_ATI`](https://t.me/Arman_ATI)
 
 ## Poco
 - **Poco F1 (Beryllium)** - [`@Legendleo90`](https://t.me/Legendleo90)
